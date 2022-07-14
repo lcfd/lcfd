@@ -21,12 +21,12 @@ I mainly create web apps.
 - [Fokasu](https://fokasu.app/)
 - Another secret project 🤫
 
-### ⭐️ Open source
+## ⭐️ Open source
 
 - [TailwindCSS Plugin for Pelican 🌬](https://github.com/pelican-plugins/tailwindcss)
 - [Grigliata](https://github.com/lcfd/grigliata)
 
-### 👥 Communities
+## 👥 Communities
 
 - [Speck&Tech](https://speckand.tech/)
 - [Python Italia](https://www.python.it/comunita/)
