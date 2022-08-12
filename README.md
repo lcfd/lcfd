@@ -1,12 +1,13 @@
 # Luca Fedrizzi 🍜
 
 I'm indie developer & project manager.
+My area of expertise is mainly the web, creating applications and websites.
 
-I write code professionally since 2014 and until now it has been a crazy trip.
-
-I mainly create web apps.
+I also do communication strategy so let's say that I help grow companies and projects from many points of view.
 
 ## 🪨 Technologies
+
+**Code**
 
 - Django
 - React
@@ -14,6 +15,13 @@ I mainly create web apps.
 - Alpine.js
 - PostgreSQL
 - SQLite
+- Pelican
+- 11ty
+
+**DevOps**
+
+- Docker
+- Ansible
 
 ## 🏗 Projects
 
@@ -33,6 +41,7 @@ I mainly create web apps.
 
 ## 📡 Contacts
 
+- [My website](https://lucafedrizzi.com)
 - [Twitter @lc_fd](https://twitter.com/lc_fd)
 - [Reddit](https://www.reddit.com/user/lc_fd)
 - [Goodreads](https://www.goodreads.com/user/show/89527482-luca)
