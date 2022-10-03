@@ -9,7 +9,7 @@ There's more on my [about page](https://lucafedrizzi.com/about).
 
 ## 🏗 Projects
 
-- [Fotressa](https://fortressa.com/)
+- [Fortressa](https://fortressa.com/)
 - [Fokasu](https://fokasu.app/)
 - [Hirebud](https://hirebud.com/)
 
