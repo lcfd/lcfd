@@ -1,9 +1,11 @@
 # Luca Fedrizzi 🍜
 
 Hi there 👋 Nice to meet you!
-I help build products and grow businesses.
 
-New to Neovim, long time Django user.
+I build products and grow businesses.
+For a more open and inclusive world.
+
+Neovim and Django user.
 
 Code · Marketing · Project management
 
