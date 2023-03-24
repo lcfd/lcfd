@@ -5,7 +5,7 @@ Hi there 👋 Nice to meet you!
 I build products and grow businesses.
 For a more open and inclusive world.
 
-Neovim and Django user.
+Neovim/Vscode and Django user.
 
 Code · Marketing · Project management
 
@@ -13,7 +13,6 @@ There's more on my [about page](https://lucafedrizzi.com/about).
 
 ## 🏗 Projects
 
-- [Fortressa](https://fortressa.com/)
 - [Fokasu](https://fokasu.app/)
 - [Hirebud](https://twitter.com/hirebudHQ)
 - [UUP](https://twitter.com/uupapp)
