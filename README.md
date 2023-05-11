@@ -1,28 +1,21 @@
-# Luca Fedrizzi 🍜
+### Luca [lcfd](https://twitter.com/lcfd) Fedrizzi  🪷
 
 Hi there 👋 Nice to meet you!
 
-I build products and grow businesses.
-For a more open and inclusive world.
+I'm a software developer from Italy 🇮🇹
 
-Neovim/Vscode and Django user.
+Pythonista at heart, but I'm sure I spent more time on JavaScript.
+Usually, I mix them by using Django and React. I'm a fan of the htmx approach.
 
-Code · Marketing · Project management
+My Neovim configuration is my zen garden 🧘‍♂️
 
-There's more on my [about page](https://lucafedrizzi.com/about).
+I created [Fōkasu](https://fokasu.app/) a browser extension. At the moment I'm building [Hirebud](https://twitter.com/hirebudHQ) and [UUP](https://twitter.com/uupapp).
 
-## 🏗 Projects
+I'm part of the [Speck&Tech](https://speckand.tech/) and [Python Italia](https://www.python.it/comunita/) communities.
 
-- [Fokasu](https://fokasu.app/)
-- [Hirebud](https://twitter.com/hirebudHQ)
-- [UUP](https://twitter.com/uupapp)
+If you think I can help with your open-source project or I can work with you, feel free to **contact me**.
 
-## 👥 Communities
+<p align="center">
+  You can find <a href="https://lucafedrizzi.com/links">here</a> all my links.
+</p>
 
-- [Speck&Tech](https://speckand.tech/)
-- [Python Italia](https://www.python.it/comunita/)
-- (WIP) A new one for Django developers
-
-## 📡 Contacts
-
-[Go here](https://lucafedrizzi.com/links).
