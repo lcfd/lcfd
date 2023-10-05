@@ -9,7 +9,7 @@ Usually, I mix them by using Django and React. I'm a fan of the htmx approach.
 
 My Neovim configuration is my zen garden 🧘‍♂️
 
-I created [Fōkasu](https://fokasu.app/) a browser extension. At the moment I'm building [Hirebud](https://twitter.com/hirebudHQ) and [UUP](https://twitter.com/uupapp).
+I created [Fōkasu](https://fokasu.app/) a browser extension. At the moment I'm building [Hirebud](https://twitter.com/hirebudHQ) and [Trak](https://usetrak.com).
 
 I'm part of the [Speck&Tech](https://speckand.tech/) and [Python Italia](https://www.python.it/comunita/) communities.
 
