@@ -12,7 +12,7 @@ I mix those two languages by using Django and React.
 I enjoy creating small products, for example:
 
 * [Fōkasu](https://fokasu.app/), a browser extension that helps to focus on just one thing
-* [Trak](https://usetrak.com), the time tracker CLI
+* [Trak](https://usetrak.com), the time tracking CLI
 
 I'm part of the [Speck&Tech](https://speckand.tech/) and [Python Italia](https://www.python.it/comunita/) communities.<br>
 I'm trying to revive the [PyTrento](https://trento.python.it/) community.
