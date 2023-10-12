@@ -1,21 +1,25 @@
-### Luca [lcfd](https://twitter.com/lcfd) Fedrizzi  🪷
+### Luca Fedrizzi
 
 Hi there 👋 Nice to meet you!
 
-I'm a software developer from Italy 🇮🇹
+I'm a freelance dev from Italy 🇮🇹
 
-Pythonista at heart, but I'm sure I spent more time on JavaScript.
-Usually, I mix them by using Django and React. I'm a fan of the htmx approach.
+Pythonista at heart, but I spent more time on JavaScript.<br>
+I mix those two languages by using Django and React.
 
-My Neovim configuration is my zen garden 🧘‍♂️
+[My Neovim configuration](https://github.com/lcfd/NaryaVim) is my zen garden 🧘‍♂️
 
-I created [Fōkasu](https://fokasu.app/) a browser extension. At the moment I'm building [Hirebud](https://twitter.com/hirebudHQ) and [Trak](https://usetrak.com).
+I enjoy creating small products, for example:
 
-I'm part of the [Speck&Tech](https://speckand.tech/) and [Python Italia](https://www.python.it/comunita/) communities.
+* [Fōkasu](https://fokasu.app/), a browser extension that helps to focus on just one thing
+* [Trak](https://usetrak.com), the time tracker CLI
 
-If you think I can help with your open-source project or I can work with you, feel free to **contact me**.
+I'm part of the [Speck&Tech](https://speckand.tech/) and [Python Italia](https://www.python.it/comunita/) communities.<br>
+I'm trying to revive the [PyTrento](https://trento.python.it/) community.
 
+<br>
+<br>
 <p align="center">
-  You can find <a href="https://lucafedrizzi.com/links">here</a> all my links.
+  <a href="https://lucafedrizzi.com/links">ALL MY LINKS</a>
 </p>
 
