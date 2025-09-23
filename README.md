@@ -1,10 +1,11 @@
-### Hi, nice to meet you 👋 I'm Luca (@lcfd)
+## Hi, nice to meet you 👋 I'm Luca (aka lcfd)
 ![Look at me mom, I'm climbing](https://github.com/user-attachments/assets/3b6a87de-328b-4bf3-82fb-e440eccd5228)
 
-I'm a freelance developer from Italy. 🇮🇹
+I'm a freelance developer from Italy 🇮🇹
 
-Pythonista 🐍 & JavaScripter 🍟. <br>
-I love to work with Django, React, and HTMX.<br>
+Pythonista 🐍 & JavaScripter 🍟<br>
+I love to work with Django, React, htmx, and experiment with new technologies.<br>
+
 My toolbox → `Ghostty` → `tmux` → `Neovim`
 
 ### Extra
